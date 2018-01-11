@@ -1,0 +1,19 @@
+
+.fixed {
+position: fixed;
+background: #888;
+top: 0;
+left: 0;
+height: 200px;
+width: 200px;
+}
+
+.relative {
+position: relative;
+background: #666;
+}   
+
+.absolute {
+postion: absolute;
+background: #333;
+}
